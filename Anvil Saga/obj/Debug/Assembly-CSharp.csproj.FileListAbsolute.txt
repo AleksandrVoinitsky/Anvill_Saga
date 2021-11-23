@@ -1,0 +1,2 @@
+C:\UnityProjects\Anvil Saga\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\UnityProjects\Anvil Saga\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
